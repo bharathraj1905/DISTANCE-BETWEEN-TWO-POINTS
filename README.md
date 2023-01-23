@@ -13,6 +13,9 @@ Substitute the values in the distance formula  ![formula](/formula.png)
 Printing the answer using format string
 ### PROGRAM:
  ```py
+ # DISTANCE-BETWEEN-TWO-POINTS
+ # Developed by:B.Barathraj
+ # Reference number: 22008848
 x=[10,6]
 y=[4,2]
 dist=(((y[0]-x[0])**2)+((y[1]-x[1])**2))**0.5
